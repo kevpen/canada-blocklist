@@ -1,0 +1,7 @@
+# Custom blocklist for Canadian based domains I've found
+# https://github.com/kevpen/canada-blocklist
+
+d3tracking.rbc.com
+offer.rbc.com
+smetrics.cbc.ca
+air-canada.dynatracesaas.com
