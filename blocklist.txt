@@ -8,3 +8,4 @@ air-canada.dynatracesaas.com
 metrics.corus.ca
 kijiji.demdex.net
 digistats.westjet.com
+research.ad.umanitoba.ca
