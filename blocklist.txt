@@ -34,6 +34,9 @@ dialogtech.com
 #shaw
 shaw.demdex.net
 
+#redflagdeals
+logger.yp.ca
+
 #misc
 t.clicktale.net
 c.oracleinfinity.io
