@@ -1,6 +1,9 @@
 # Custom blocklist for Canadian based websites
 # https://github.com/kevpen/canada-blocklist
 
+#adp
+tracker.adp.ca
+
 # rbc
 d3tracking.rbc.com
 offer.rbc.com
