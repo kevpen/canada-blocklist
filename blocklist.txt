@@ -12,3 +12,5 @@ research.ad.umanitoba.ca
 st1.dialogtech.com
 st2.dialogtech.com
 dialogtech.com
+t.clicktale.net
+shaw.demdex.net
