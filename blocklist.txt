@@ -1,17 +1,36 @@
-# Custom blocklist for Canadian based domains I've found
+# Custom blocklist for Canadian based websites
 # https://github.com/kevpen/canada-blocklist
 
+# rbc
 d3tracking.rbc.com
 offer.rbc.com
+
+#cbc
 smetrics.cbc.ca
+
+#aircanada
 air-canada.dynatracesaas.com
+
+#global news
 metrics.corus.ca
+
+#kijiji
 kijiji.demdex.net
+
+#westjet
 digistats.westjet.com
+
+#umanitoba
 research.ad.umanitoba.ca
+
+#toyota
 st1.dialogtech.com
 st2.dialogtech.com
 dialogtech.com
-t.clicktale.net
+
+#shaw
 shaw.demdex.net
+
+#misc
+t.clicktale.net
 c.oracleinfinity.io
