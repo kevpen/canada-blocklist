@@ -4,6 +4,12 @@
 #adp
 tracker.adp.ca
 
+#aeroplan
+aeroplan.sc.omtrdc.net
+
+#canadian tire
+canadiantiremobile-app.quantummetric.com
+
 #molson
 leanstreamdemand.deliveryengine.adswizz.com
 
